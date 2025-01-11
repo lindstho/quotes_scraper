@@ -1,5 +1,4 @@
 # quotes_scraper
-Goodreads.com random popular quote scraper
 
 Python script that scrapes random popular quotes from goodreads.com.
 
